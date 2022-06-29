@@ -1,0 +1,19 @@
+@media only screen and (min-width: 600px){
+
+#navbar{
+  height:100%;
+  width:200px;
+  position:fixed;
+  z-index:1;
+  top:0;
+  left:0;
+background-color:lightgrey;
+  padding-top:60px;
+  transition:0.5s;
+}
+
+.main-section{
+  padding-left:210px
+}
+
+}
